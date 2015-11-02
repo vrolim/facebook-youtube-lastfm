@@ -1,0 +1,18 @@
+##!!!Instruções para rodar o sistema!!!##
+Obs.: o sistema foi implementado usando php, e testado no xampp e mysql;
+
+->Banco de dados
+-Crie um banco de nome "genevieve";
+-Faça o import com o schema que está na pasta;
+
+->xampp
+-Coloque a pasta genevieve na pasta htdocs do xampp;
+
+->Apache
+-Abra o arquivo de configurações do apache que se encontra no caminho: C:\xampp\apache\conf\httpd.conf;
+-Na linha 58 ou proximo a ela, mude de Listen 80, para Listen 3434, pois o serviço foi configurado para esta porta;
+
+->Para uso
+-crie e insira suas próprias keys do youtube e do last.fm.
+
+Divirta-se e Obrigado por usar o Genevieve Sounds!

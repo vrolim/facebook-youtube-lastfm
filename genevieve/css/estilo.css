@@ -1,0 +1,67 @@
+html, body {
+	background: white;
+	height: auto;
+}
+
+p, h1, h2, h3, h4, h5, h6, a {
+	font-family: sans-serif;
+}	
+
+.white {
+	background: white;
+}
+
+#busca {
+	margin-top: 22%;
+	margin-bottom: 15%;
+}	
+
+#footer {
+	position: relative;
+	margin-top: 10%;
+}
+
+.thumb {
+	width: 70px;
+	height:70px;
+	margin-right: 10px;
+}
+.photo {
+	width: 225px;
+	height:195px;
+}
+
+.th-rec {
+	width: 60px;
+	height:60px;
+}
+
+.p-rec {
+	font-size: 14px;
+	margin-left:2%;
+}
+
+.div-rec {
+	padding: 0px;
+	height: 60px;
+}
+
+#seeMore {
+	width: 150px;
+	height: 50px;
+	margin-top: -3%;
+}
+
+#play {
+	width: 50px;
+	height: 50px;
+	margin-top: -3%;
+}
+
+#itemLista {
+	height: 110px;
+}
+
+.hover:hover {
+	opacity:0.8;
+}
